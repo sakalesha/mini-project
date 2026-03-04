@@ -52,3 +52,13 @@ The following phases have been completed:
 * Implemented the **Data Pipeline** (including Zero padding, Missing value handles, `MinMaxScaler` normalization, and generating a 60-day Sliding Window).
 * Hand-developed the **LSTM Architecture** using Keras (3 Sequential LSTM layers with 20% Dropout in each step to prevent model overfitting). 
 * Prepared tuning constraints alongside Model Checkpoint hooks using documentation standardized against external research guidelines on prediction hyperparameters (`DOCS/Hyperparameter_Config.md`). The operational code is now bundled cleanly inside `notebooks/Stock_Prediction_LSTM.ipynb`.
+
+### **Week 4: Stock Price Prediction Implementation - [COMPLETE]**
+* Standardized the LSTM training pipeline across SBI, HDFC, and ICICI stocks.
+* Generated 20% validation-set predictions with inverse scaling to actual INR values.
+* Quantified performance using MSE, MAE, RMSE, and MAPE metrics (Best performing: ICICI at 1.86% MAPE).
+
+### **Week 5: Anomaly Detection Implementation (Anomaly Detection Phase) - [COMPLETE]**
+* Designed an **LSTM Autoencoder** architecture (Encoder-Decoder) to learn normal stock price reconstruction.
+* Trained three distinct Autoencoders for the target banks and established statistical thresholds (Mean + 3σ) for anomaly detection.
+* Generated **Anomaly Visualization Plots** marking significant price irregularities (red dots) on historical closing charts, successfully capturing periods of extreme volatility.

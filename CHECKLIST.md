@@ -73,17 +73,17 @@
 ---
 
 ## Week 5: Anomaly Detection Implementation (Anomaly Detection Phase)
-- [ ] **Member 1: LSTM Autoencoder Design**
-    - [ ] Design Encoder-Decoder architecture
-- [ ] **Member 2: Autoencoder Training**
-    - [ ] Train on normal data & Save models
-- [ ] **Member 3: Anomaly Detection Logic**
-    - [ ] Set threshold (mean + 2*SD)
-    - [ ] Visualize anomalies on price charts (Red Dots)
-- [ ] **Member 4: Anomaly Analysis**
-    - [ ] Correlate anomalies with real-world events (COVID, Elections)
-    - [ ] Document findings with explanations
-- [ ] **Week 5 Deliverables:** Autoencoder models, Anomaly visualizations, Analysis report
+- [x] **Member 1: LSTM Autoencoder Design**
+    - [x] Design Encoder-Decoder architecture
+- [x] **Member 2: Autoencoder Training**
+    - [x] Train on normal data & Save models
+- [x] **Member 3: Anomaly Detection Logic**
+    - [x] Set threshold (mean + 2*SD)
+    - [x] Visualize anomalies on price charts (Red Dots)
+- [x] **Member 4: Anomaly Analysis**
+    - [x] Correlate anomalies with real-world events (COVID, Elections)
+    - [x] Document findings with explanations
+- [x] **Week 5 Deliverables:** Autoencoder models, Anomaly visualizations, Analysis report
 
 ---
 
