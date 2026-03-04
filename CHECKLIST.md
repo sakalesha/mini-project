@@ -88,19 +88,19 @@
 ---
 
 ## Week 6: Risk Analysis & Evaluation (Risk Assessment Phase)
-- [ ] **Member 1: Risk Metrics Calculation**
-    - [ ] Calculate Daily Returns & Standard Deviation
-    - [ ] Compute Sharpe Ratio & Beta vs NIFTY
-- [ ] **Member 2: Volatility Analysis**
-    - [ ] Calculate 30-day Rolling Volatility
-    - [ ] Identify high volatility periods
-- [ ] **Member 3: Comparative Risk Analysis**
-    - [ ] Compare risk profiles (SBI vs HDFC vs ICICI)
-    - [ ] Create risk-return scatter plots
-- [ ] **Member 4: Final Model Evaluation**
-    - [ ] Consolidate all metrics into evaluation tables
-    - [ ] Document strengths and limitations
-- [ ] **Week 6 Deliverables:** Risk report, Volatility plots, Investment recommendations
+- [x] **Member 1: Risk Metrics Calculation**
+    - [x] Calculate Daily Returns & Standard Deviation
+    - [x] Compute Sharpe Ratio & Beta vs NIFTY
+- [x] **Member 2: Volatility Analysis**
+    - [x] Calculate 30-day Rolling Volatility
+    - [x] Identify high volatility periods
+- [x] **Member 3: Comparative Risk Analysis**
+    - [x] Compare risk profiles (SBI vs HDFC vs ICICI)
+    - [x] Create risk-return scatter plots
+- [x] **Member 4: Final Model Evaluation**
+    - [x] Consolidate all metrics into evaluation tables
+    - [x] Document strengths and limitations
+- [x] **Week 6 Deliverables:** Risk report, Volatility plots, Investment recommendations
 
 ---
 

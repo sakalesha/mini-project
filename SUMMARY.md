@@ -62,3 +62,8 @@ The following phases have been completed:
 * Designed an **LSTM Autoencoder** architecture (Encoder-Decoder) to learn normal stock price reconstruction.
 * Trained three distinct Autoencoders for the target banks and established statistical thresholds (Mean + 3σ) for anomaly detection.
 * Generated **Anomaly Visualization Plots** marking significant price irregularities (red dots) on historical closing charts, successfully capturing periods of extreme volatility.
+
+### **Week 6: Risk Analysis & Evaluation (Risk Assessment Phase) - [COMPLETE]**
+* Computed comprehensive **Risk Metrics** (Daily Returns, Annualized Volatility, and Sharpe Ratio) across all three banking stocks.
+* Implemented **30-Day Rolling Volatility** analysis to track historical stability and risk fluctuations.
+* Developed a **Risk-Return Comparative Evaluation** using scatter plot visualizations, concluding that SBI and ICICI offered superior risk-adjusted returns during the analyzed timeframe compared to HDFC.
