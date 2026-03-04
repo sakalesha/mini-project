@@ -1,0 +1,33 @@
+          
+ 
+School of Engineering 
+Department of Computer Science and Engineering 
+B Tech, Minor Project(2025-26) 
+ABSTRACT 
+Stock market prediction, anomaly detection, and risk analysis are essential for 
+informed investment decisions in the banking sector, particularly with rapid 
+technological advancements enabling accurate data analysis. This study applies the 
+Long Short-Term Memory (LSTM) algorithm to analyze stock price 
+movements of major Indian banks, including State Bank of India (SBI), HDFC 
+Bank, and ICICI Bank. Stock price fluctuations are examined, and anomaly 
+detection identifies unusual price movements. Based on these anomalies, risk 
+analysis helps investors evaluate bank stability and risk. Furthermore, LSTM-
+based stock price prediction forecasts future prices using historical trends, 
+enabling investors to anticipate market movements and make proactive, informed, 
+and potentially profitable investment decisions. 
+ 
+ 
+ 
+Guide Signature  
+Names & USN of Team 
+Members 
+Ronada Sakalesha ENG23CS0165 
+Prem Kumar N ENG23CS0146 
+Rakesh M A ENG23CS0157 
+Rahul K ENG23CS0152 
+Name of the Guide Prof. Yashpal Gupta S 
+Signature of the Guide  
+Final Project Title Leveraging Long Short - Term Memory (LSTM) for Stock 
+Prediction, Anomaly Detection, and Risk Analysis in the Indian 
+Banking Sector 
+Team No 23 
