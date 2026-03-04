@@ -105,16 +105,16 @@
 ---
 
 ## Week 7: Documentation & Presentation (Final Deliverables)
-- [ ] **Member 1: Code Documentation**
-    - [ ] Clean code, add comments, and create README.md
-    - [ ] Prepare final code package & requirements.txt
-- [ ] **Member 2: Project Report Writing**
-    - [ ] Write Introduction, Methodology, Results, and Conclusion
-    - [ ] Format report to IEEE/academic standards
-- [ ] **Member 3: Presentation Preparation**
-    - [ ] Create PPT slides (15-20 slides)
-    - [ ] Prepare demo video/live demo
-- [ ] **Member 4: Final Integration & Testing**
-    - [ ] Perform end-to-end system testing
-    - [ ] Prepare final submission package
-- [ ] **Week 7 Deliverables:** 20-30 page report, Presentation slides, Complete source code
+- [x] **Member 1: Code Documentation**
+    - [x] Clean code, add comments, and create README.md
+    - [x] Prepare final code package & requirements.txt
+- [x] **Member 2: Project Report Writing**
+    - [x] Write Introduction, Methodology, Results, and Conclusion
+    - [x] Format report to IEEE/academic standards
+- [x] **Member 3: Presentation Preparation**
+    - [x] Create PPT slides (15-20 slides)
+    - [x] Prepare demo video/live demo
+- [x] **Member 4: Final Integration & Testing**
+    - [x] Perform end-to-end system testing
+    - [x] Prepare final submission package
+- [x] **Week 7 Deliverables:** 20-30 page report, Presentation slides, Complete source code
