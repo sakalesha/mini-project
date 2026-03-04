@@ -56,19 +56,19 @@
 ---
 
 ## Week 4: Stock Price Prediction (Prediction Implementation)
-- [ ] **Member 1: SBI Model Training**
-    - [ ] Train & Save SBI model weights
-    - [ ] Generate training history plots
-- [ ] **Member 2: HDFC & ICICI Training**
-    - [ ] Train & Save HDFC/ICICI model weights
-    - [ ] Create comparative training plots
-- [ ] **Member 3: Prediction Generation**
-    - [ ] Generate predictions & Inverse transform scale
-    - [ ] Forecast future prices (7-30 days)
-- [ ] **Member 4: Performance Metrics**
-    - [ ] Calculate MSE, MAE, RMSE, MAPE for each bank
-    - [ ] Create performance comparison table
-- [ ] **Week 4 Deliverables:** Trained models, Prediction plots, Metrics report
+- [x] **Member 1: SBI Model Training**
+    - [x] Train & Save SBI model weights
+    - [x] Generate training history plots
+- [x] **Member 2: HDFC & ICICI Training**
+    - [x] Train & Save HDFC/ICICI model weights
+    - [x] Create comparative training plots
+- [x] **Member 3: Prediction Generation**
+    - [x] Generate predictions & Inverse transform scale
+    - [x] Forecast future prices (7-30 days)
+- [x] **Member 4: Performance Metrics**
+    - [x] Calculate MSE, MAE, RMSE, MAPE for each bank
+    - [x] Create performance comparison table
+- [x] **Week 4 Deliverables:** Trained models, Prediction plots, Metrics report
 
 ---
 
